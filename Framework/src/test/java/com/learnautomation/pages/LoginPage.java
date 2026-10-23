@@ -10,6 +10,8 @@ public class LoginPage {
 	
 	WebDriver driver;
 	
+	
+	//New comment from Rock
 	public LoginPage(WebDriver ldriver) {
 		
 		this.driver = ldriver;
